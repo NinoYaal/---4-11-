@@ -1,6 +1,6 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+pandas
+lightgbm
+sklearn
+numpy
+re
+warnings
